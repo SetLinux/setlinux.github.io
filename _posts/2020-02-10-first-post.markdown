@@ -1,20 +1,16 @@
 ---
 layout: post
-title:  "My First Post!"
-date:   2020-02-10 22:45:49 +0200
-categories: First blog rust 
+title:  "First!"
+date:   2020-02-10 22:57:32 +0200
+categories: jekyll update
 ---
-
-this is my first post here ,
-i am just starting to getting used to `jekyll`
-this blog will primarly be for talking about the set-linux and it's updates
-and discussing different features about the project
-
-
-{% highlight rust %}
-fn letsgo(myname : String) -> res{
-	//no return
-}
+i can neither confirm nor agree about this being my first post
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
