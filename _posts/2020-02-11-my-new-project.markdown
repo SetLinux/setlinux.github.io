@@ -27,7 +27,12 @@ back to the file hirachy :
 the good this about this is the cool stuff you can do like for example 
 if you have two version of ``libA`` you can set one as being the default while lock some other application to use the other version
 
+the PM(Package MANAGER) will be written in `rust` so that's memory safety for ya 
+there are other several reason i chose rust and i will discuss them in later posts 
+
 now this has been a very very short introduction to what the distro aims to do , i hope it will reach it's goals :)
+
+
 
 thanks for your time reading , see you soon
 
