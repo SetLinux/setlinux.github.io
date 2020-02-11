@@ -25,12 +25,12 @@ my intended file hirachy is like that
 there will be something similar to gobo's legacy system tree so that you can run binaries directly when downloading them without patching them and without any setup   
 now this hirachy will allow my package manager to be able to even install .deb packages or rpm packages into their own places easily
 
-
-one other feature that the package manager will be able to do is for example  
+back to the file hirachy :  
+the good this about this is the cool stuff you can do like for example 
 if you have two version of ``libA`` you can set one as being the default while lock some other application to use the other version
 
 
-the package script format is gonna be lua so that it allows more options and easier to start working with,
+the package format is lua scripts so it's easy to get started writing packages,
 the PM(Package MANAGER) will be written in `rust` so that's memory safety for ya 
 there are other several reason I chose rust and I will discuss them in later posts 
 
