@@ -30,6 +30,9 @@ if you have two version of ``libA`` you can set one as being the default while l
 the PM(Package MANAGER) will be written in `rust` so that's memory safety for ya 
 there are other several reason i chose rust and i will discuss them in later posts 
 
+i will discuss also a couple of the challenges i had with writing the PM and i how
+i approached them in later posts 
+
 now this has been a very very short introduction to what the distro aims to do , i hope it will reach it's goals :)
 
 
